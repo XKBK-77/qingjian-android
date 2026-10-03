@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.qingjian.ime.app-mergeDebugResources-30:/layout/input_view.xml",
+        "source": "com.qingjian.ime.app-main-33:/layout/input_view.xml"
+    },
+    {
+        "merged": "com.qingjian.ime.app-mergeDebugResources-30:/layout/key_row_1.xml",
+        "source": "com.qingjian.ime.app-main-33:/layout/key_row_1.xml"
+    },
+    {
+        "merged": "com.qingjian.ime.app-mergeDebugResources-30:/layout/key_row_4.xml",
+        "source": "com.qingjian.ime.app-main-33:/layout/key_row_4.xml"
+    },
+    {
+        "merged": "com.qingjian.ime.app-mergeDebugResources-30:/layout/key_row_3.xml",
+        "source": "com.qingjian.ime.app-main-33:/layout/key_row_3.xml"
+    },
+    {
+        "merged": "com.qingjian.ime.app-mergeDebugResources-30:/layout/keyboard.xml",
+        "source": "com.qingjian.ime.app-main-33:/layout/keyboard.xml"
+    },
+    {
+        "merged": "com.qingjian.ime.app-mergeDebugResources-30:/layout/candidate_item.xml",
+        "source": "com.qingjian.ime.app-main-33:/layout/candidate_item.xml"
+    },
+    {
+        "merged": "com.qingjian.ime.app-mergeDebugResources-30:/layout/key_row_2.xml",
+        "source": "com.qingjian.ime.app-main-33:/layout/key_row_2.xml"
+    }
+]

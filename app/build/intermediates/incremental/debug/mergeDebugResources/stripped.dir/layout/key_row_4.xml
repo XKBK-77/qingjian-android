@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button
+        style="@style/KeyButton.Function"
+        android:text="123"
+        android:tag="symbols" />
+    <Button
+        style="@style/KeyButton.Function"
+        android:text="中/英"
+        android:tag="lang" />
+    <Button
+        style="@style/KeyButton.Space"
+        android:text="空格"
+        android:tag="space" />
+    <Button
+        style="@style/KeyButton.Function"
+        android:text="↵"
+        android:tag="enter" />
+</merge>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button style="@style/KeyButton" android:text="q" android:tag="q" />
+    <Button style="@style/KeyButton" android:text="w" android:tag="w" />
+    <Button style="@style/KeyButton" android:text="e" android:tag="e" />
+    <Button style="@style/KeyButton" android:text="r" android:tag="r" />
+    <Button style="@style/KeyButton" android:text="t" android:tag="t" />
+    <Button style="@style/KeyButton" android:text="y" android:tag="y" />
+    <Button style="@style/KeyButton" android:text="u" android:tag="u" />
+    <Button style="@style/KeyButton" android:text="i" android:tag="i" />
+    <Button style="@style/KeyButton" android:text="o" android:tag="o" />
+    <Button style="@style/KeyButton" android:text="p" android:tag="p" />
+</merge>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">青简</string>
+    <string name="subtype_label">中文拼音</string>
+    <string name="ime_name">青简输入法</string>
+    <string name="settings">设置</string>
+    <string name="delete">删除</string>
+    <string name="enter">回车</string>
+    <string name="space">空格</string>
+    <string name="shift">大小写</string>
+    <string name="switch_lang">中/英</string>
+    <string name="done">完成</string>
+    <string name="next">下一个</string>
+    <string name="search">搜索</string>
+    <string name="go">前往</string>
+    <string name="send">发送</string>
+</resources>

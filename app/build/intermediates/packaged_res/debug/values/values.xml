@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_keyboard">#EDEDE8</color>
+    <color name="black">#000000</color>
+    <color name="candidate_bg">#F5F5F0</color>
+    <color name="candidate_text">#333333</color>
+    <color name="composing_text">#4A6741</color>
+    <color name="divider">#DDDDDD</color>
+    <color name="key_bg">#FFFFFF</color>
+    <color name="key_bg_pressed">#E0E0E0</color>
+    <color name="key_text">#333333</color>
+    <color name="qingjian_accent">#8B7355</color>
+    <color name="qingjian_primary">#4A6741</color>
+    <color name="qingjian_primary_dark">#3A5232</color>
+    <color name="translation_text">#8B7355</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">青简</string>
+    <string name="delete">删除</string>
+    <string name="done">完成</string>
+    <string name="enter">回车</string>
+    <string name="go">前往</string>
+    <string name="ime_name">青简输入法</string>
+    <string name="next">下一个</string>
+    <string name="search">搜索</string>
+    <string name="send">发送</string>
+    <string name="settings">设置</string>
+    <string name="shift">大小写</string>
+    <string name="space">空格</string>
+    <string name="subtype_label">中文拼音</string>
+    <string name="switch_lang">中/英</string>
+    <style name="KeyButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:background">@drawable/key_bg</item>
+        <item name="android:textColor">@color/key_text</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:padding">0dp</item>
+    </style>
+    <style name="KeyButton.Function">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1.5</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:background">@drawable/key_bg_function</item>
+        <item name="android:textColor">@color/key_text</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:padding">0dp</item>
+    </style>
+    <style name="KeyButton.Space">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">4</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:background">@drawable/key_bg</item>
+        <item name="android:textColor">@color/key_text</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:padding">0dp</item>
+    </style>
+    <style name="Theme.QingjianIME" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qingjian_primary">#4A6741</color>
+    <color name="qingjian_primary_dark">#3A5232</color>
+    <color name="qingjian_accent">#8B7355</color>
+    <color name="key_bg">#FFFFFF</color>
+    <color name="key_bg_pressed">#E0E0E0</color>
+    <color name="key_text">#333333</color>
+    <color name="candidate_bg">#F5F5F0</color>
+    <color name="candidate_text">#333333</color>
+    <color name="translation_text">#8B7355</color>
+    <color name="composing_text">#4A6741</color>
+    <color name="divider">#DDDDDD</color>
+    <color name="bg_keyboard">#EDEDE8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
